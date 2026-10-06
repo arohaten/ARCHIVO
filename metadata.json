@@ -1,0 +1,6 @@
+{
+  "name": "ARCHIVO VLC",
+  "description": "Repositorio documental y sistema de recepción pericial de anomalías de la Comunitat Valenciana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
